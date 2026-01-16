@@ -1,6 +1,6 @@
 **Target System**: [https://awakening.bdagscan.com/](https://awakening.bdagscan.com/)
 **Status**: 🟢 Active / Live Regression Suite
-**Total Tests**: 20
+**Total Tests**: 28
 
 This repository contains a suite of **20 Live Regression Tests** designed to verify the stability of the BlockDAG Explorer.
 
