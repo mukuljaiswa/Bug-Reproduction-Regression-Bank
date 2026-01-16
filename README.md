@@ -1,4 +1,3 @@
-# 🐞 BlockDAG Explorer Regression Bank
 **Target System**: [https://awakening.bdagscan.com/](https://awakening.bdagscan.com/)
 **Status**: 🟢 Active / Live Regression Suite
 **Total Tests**: 20
